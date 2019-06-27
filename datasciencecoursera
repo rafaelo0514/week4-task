@@ -1,0 +1,5 @@
+ $mkdir~/test-repo
+ $cd~/test-repo
+ $git init
+ $git remote add origin https:github.com/rafaelo0514/test-repo.git
+ 
